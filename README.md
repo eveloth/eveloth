@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- :computer: I'm a backend .NET developer
+- 🔭 I’m currently working on automating my job
+- 🌱 I’m currently learning new .NET stuff, microservices and Linux
+- 📫 How to reach me: t.me/moskvorecky
+
 <!--
 **eveloth/eveloth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
