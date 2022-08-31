@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning new .NET stuff, microservices and Linux
 - 📫 How to reach me: t.me/moskvorecky
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eveloth)](https://git.io/streak-stats)
+
 <!--
 **eveloth/eveloth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
