@@ -1,14 +1,16 @@
+<h2 align="center">Hi there 👋</h2>
+
+
+
+- :computer: I'm a backend .NET developer</li>
+- 🔭 I’m currently working on automating my job</li>
+- 🌐 I’m learning ASP.NET Core, microservices and Linux</li>
+- 📫 How to reach me: [t.me/moskvorecky](t.me/moskvorecky)</li>
+
 <p align="center">
-  ### Hi there 👋
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=eveloth&theme=dark&line_height=0"></img>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eveloth&layout=compact&theme=dark&langs_count=6"></img>
 </p>
-
-- :computer: I'm a backend .NET developer
-- 🔭 I’m currently working on automating my job
-- 🌱 I’m currently learning new .NET stuff, microservices and Linux
-- 📫 How to reach me: t.me/moskvorecky
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eveloth)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eveloth&theme=monokai)](https://git.io/streak-stats)
 
 <!--
 **eveloth/eveloth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
