@@ -44,9 +44,9 @@ Source code: https://github.com/eveloth/ev-autoreg
 
 <h2 align="center">Digest bot</h2>
 
-I created an digest-making bot for https://t.me/natti_jun_front_chat that helps big groups administrators to create and send digests. It allows users to create their own digest categories and has rich editing system. Digests structure and text is nevel lost, and it has some nice shenanigans like auto-pinning the latest digest for group.
+I created a digest-making bot for https://t.me/natti_jun_front_chat that helps big groups administrators to create and send digests. It allows users to create their own digest categories and has rich editing system. Digests structure and text is nevel lost, and the bot has some nice shenanigans like auto-pinning the latest digest for group.
 
-It also has a group confirmation system that prevents its now impossible malicious usage.
+It also has a group confirmation system that prevents its - now impossible - malicious usage.
 
 Source code: https://github.com/eveloth/natti-digest-bot
 
