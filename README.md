@@ -32,13 +32,23 @@ Looking forward to learn <a href="https://www.rabbitmq.com/" title="RabbitMQ"><i
 
 <hr>
 
-<h2 align="center">EV Autoregistrator Project</h2>
+<h2 align="center">EV Autoregistrar Project</h2>
 
 I developed an automation system for my TS job, it's called EV Autoregistrator — а web service that binds corporate Exchange server and ExtraView service desk API to provide automatic registration of incoming issues.
 
 The system was succesfuly intergarated into the company infrastructure and helped to decrease time wasted on repeating actions by 70%.
 
 Source code: https://github.com/eveloth/ev-autoreg
+
+<hr>
+
+<h2 align="center">Digest bot</h2>
+
+I created an digest-making bot for https://t.me/natti_jun_front_chat that helps big groups administrators to create and send digests. It allows users to create their own digest categories and has rich editing system. Digests structure and text is nevel lost, and it has some nice shenanigans like auto-pinning the latest digest for group.
+
+It also has a group confirmation system that prevents its now impossible malicious usage.
+
+Source code: https://github.com/eveloth/natti-digest-bot
 
 <hr>
 
