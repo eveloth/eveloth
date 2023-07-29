@@ -1,10 +1,7 @@
 <h2 align="center">Hi there! 👋</h2>
 
 My name is Vadim, I am a .NET backend software engineer, Linux and FOSS enthusiast and a loving cat parent :cat: 
-I used to work as a VoIP administrator at a technical support job and was developing automation systems. 
-
-I see a lot of stunning possibilities in backend software engineering, like creating valuable and complicated services to improve user experience. I'm 
-passionate about microservices architecture and what I love about .NET are its performance, innovativeness, and convenience.
+I used to work as a VoIP administrator at a technical support job and was developing automation systems. Officially a .NET backend dev since April '23 🥳
 
 <hr>
 
@@ -27,9 +24,15 @@ passionate about microservices architecture and what I love about .NET are its p
 
 <hr>
 
-I'm a big fan of <a href="https://www.vim.org/" title="Vim"><img src="https://github.com/get-icon/geticon/raw/master/icons/vim.svg" alt="Vim" width="21px" height="21px"></a> and <a href="https://www.jetbrains.com/" title="JetBrains"><img src="https://github.com/get-icon/geticon/raw/master/icons/jetbrains.svg" alt="JetBrains" width="21px" height="21px"></a> IDEs, Rider in particular. 
+Also I'm a big fan of <a href="https://www.vim.org/" title="Vim"><img src="https://github.com/get-icon/geticon/raw/master/icons/vim.svg" alt="Vim" width="21px" height="21px"></a> and <a href="https://www.jetbrains.com/" title="JetBrains"><img src="https://github.com/get-icon/geticon/raw/master/icons/jetbrains.svg" alt="JetBrains" width="21px" height="21px"></a> IDEs, Rider in particular. Worth noting, innit?
 
-Looking forward to learn <a href="https://www.rabbitmq.com/" title="RabbitMQ"><img src="https://github.com/get-icon/geticon/raw/master/icons/rabbitmq.svg" alt="RabbitMQ" width="21px" height="21px"></a> as a part of my microservices learning journey, and I'm also interested in <a href="https://www.haskell.org/" title="Haskell"><img src="https://github.com/get-icon/geticon/raw/master/icons/haskell-icon.svg" alt="Haskell" width="21px" height="21px"></a> programming language. I know a little bit of <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="21px" height="21px"></a> and <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="21px" height="21px"></a>.
+<hr>
+
+<h2 align="center">Teapot middleware</h2>
+
+A pure perfection, *the* middleware that will send you 418 "I'm a teapot" if your HTTP GET request has a body. Who even does this!?
+
+Source code: https://github.com/eveloth/teapot-middleware
 
 <hr>
 
