@@ -1,7 +1,6 @@
 <h2 align="center">Hi there! 👋</h2>
 
-My name is Vadim, I am a .NET backend software engineer, Linux and FOSS enthusiast and a loving cat parent :cat: 
-I used to work as a VoIP administrator at a technical support job and was developing automation systems. Officially a .NET backend dev since April '23 🥳
+My name is Vadim, I am a backend software engineer, Linux and FOSS enthusiast and a loving cat parent :cat: 
 
 <hr>
 
@@ -21,10 +20,6 @@ I used to work as a VoIP administrator at a technical support job and was develo
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
 </h4>
-
-<hr>
-
-Also I'm a big fan of <a href="https://www.vim.org/" title="Vim"><img src="https://github.com/get-icon/geticon/raw/master/icons/vim.svg" alt="Vim" width="21px" height="21px"></a> and <a href="https://www.jetbrains.com/" title="JetBrains"><img src="https://github.com/get-icon/geticon/raw/master/icons/jetbrains.svg" alt="JetBrains" width="21px" height="21px"></a> IDEs, Rider in particular. Worth noting, innit?
 
 <hr>
 
