@@ -9,6 +9,8 @@ Linux is just a psyop by big keyboard so they don't need to pay for the Windows 
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+I professionally do backend with Go and C# and unprofessionaly but with great passion do everything else.
+
 <!--
 **eveloth/eveloth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
