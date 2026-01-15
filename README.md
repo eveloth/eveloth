@@ -1,10 +1,8 @@
-<h2 align="center">Hi there! 👋</h2>
-
-My name is Vadim, I am a backend software engineer, Linux and FOSS enthusiast and a loving cat parent :cat: 
+Linux is just a psyop by big keyboard so they don't need to pay for the Windows key licensing fees (с)
 
 <hr>
 
-<h2 align="center">My skills are:</h2>
+<h2 align="center">My skills:</h2>
 
 <h4 align="center">
 
@@ -20,55 +18,6 @@ My name is Vadim, I am a backend software engineer, Linux and FOSS enthusiast an
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
 </h4>
-
-<hr>
-
-<h2 align="center">Teapot middleware</h2>
-
-A pure perfection, *the* middleware that will send you 418 "I'm a teapot" if your HTTP GET request has a body. Who even does this!?
-
-Source code: https://github.com/eveloth/teapot-middleware
-
-<hr>
-
-<h2 align="center">EV Autoregistrar Project</h2>
-
-I developed an automation system for my TS job, it's called EV Autoregistrator — а web service that binds corporate Exchange server and ExtraView service desk API to provide automatic registration of incoming issues.
-
-The system was succesfuly intergarated into the company infrastructure and helped to decrease time wasted on repeating actions by 70%.
-
-Source code: https://github.com/eveloth/ev-autoreg
-
-<hr>
-
-<h2 align="center">Digest bot</h2>
-
-I created a digest-making bot for https://t.me/natti_jun_front_chat that helps big groups administrators to create and send digests. It allows users to create their own digest categories and has rich editing system. Digests structure and text is nevel lost, and the bot has some nice shenanigans like auto-pinning the latest digest for group.
-
-It also has a group confirmation system that prevents its - now impossible - malicious usage.
-
-Source code: https://github.com/eveloth/natti-digest-bot
-
-<hr>
-
-<h2 align="center">How to contact me</h2>
-
-<p align="center">
-<a href="https://t.me/moskvorecky">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></img>
-</a>
-<a href="https://www.linkedin.com/in/vadim-stepanov-930606232/">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img>
-</a>
-</p>
-
-<hr>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=eveloth&theme=dark&line_height=0"></img>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eveloth&layout=compact&theme=dark&langs_count=6"></img>
-</p>
-
 <!--
 **eveloth/eveloth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
