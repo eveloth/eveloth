@@ -12,6 +12,8 @@ Linux is just a psyop by big keyboard so they don't need to pay for the Windows 
 
 I professionally do backend with Go and C# and unprofessionaly but with great passion do everything else.
 
+I like em dashes. No AI will take my em dashes from me.
+
 <!--
 **eveloth/eveloth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
